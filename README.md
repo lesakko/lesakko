@@ -51,7 +51,7 @@ When logging into third-party apps, security should always be your #1 priority. 
 This app is built with passion by a solo developer. If this app helped you track down some V-Bucks or you just love the UI, consider supporting the development!
 
 * ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/lesakko)**
-* 💬 **[Submit feedback or feature requests]([DIT_GOOGLE_FORMS_LINK_HER](https://forms.gle/bAkkaUestUZK25666))**
+* 💬 **[Submit feedback or feature requests](https://forms.gle/bAkkaUestUZK25666)**
 
 ## 🛠️ For Developers (Build it yourself)
 Want to tinker with the code? Awesome!

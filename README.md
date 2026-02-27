@@ -9,7 +9,9 @@
 
 *Stop relying on slow websites filled with ads. Fortnite Tracker Ultra is a lightweight, lightning-fast PC application that brings all your Fortnite data, shop updates, and hidden missions into one beautiful, futuristic dashboard.*
 
-[📸 Insert a cool screenshot of the Dashboard here]
+<img width="1200" height="850" alt="screenshot 2" src="https://github.com/user-attachments/assets/780fa844-9de2-4639-89bd-0ada8a1f996f" />
+
+
 
 </div>
 
@@ -57,7 +59,7 @@ This app is built with passion by a solo developer. If this app helped you track
 Want to tinker with the code? Awesome!
 ```bash
 # Clone the repository
-git clone [https://github.com/DIT-BRUGERNAVN/DIT-REPO-NAVN.git](https://github.com/DIT-BRUGERNAVN/DIT-REPO-NAVN.git)
+git clone [https://github.com/lesakko/fortnite-tracker-ultra.git](https://github.com/lesakko/fortnite-tracker-ultra.git)
 
 # Install dependencies
 npm install

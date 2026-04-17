@@ -20,7 +20,7 @@ I am currently dedicating my time to building and optimizing the **Kvantix Termi
 
 ### 📂 Public Showcases & Infrastructure Snippets
 While the core alpha-generation logic remains closed-source, you can explore the architectural foundation of the Kvantix Engine here:
-* [🧠 The Cognitive Agent (Llama 3 FinTwit Integration)](link-til-dit-repo)
-* [🛡️ The Iron Shield (Deterministic Risk Management)](link-til-dit-repo)
-* [🐝 The Global Hive Mind (Swarm Data Schema)](link-til-dit-repo)
-* [📡 Discord Telemetry Engine (Live Observability)](link-til-dit-repo)
+* [🧠 The Cognitive Agent (Llama 3 FinTwit Integration)](https://github.com/lesakko/The-Cognitive-AI-Lobe-Multi-Agent-Prompting-)
+* [🛡️ The Iron Shield (Deterministic Risk Management)](https://github.com/lesakko/-The-Iron-Shield-Risk-Manager-Logic)
+* [🐝 The Global Hive Mind (Swarm Data Schema)](https://github.com/lesakko/The-Global-Hive-Mind-Data-Schema-)
+* [📡 Discord Telemetry Engine (Live Observability)](https://github.com/lesakko/telemetry_broadcaster.py)

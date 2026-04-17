@@ -1,26 +1,28 @@
-# ⚡ Jesper | Founder & Lead Architect at Kvantix
+# ⚡ Kvantix — Secure Local Algorithmic Trading Infrastructure
 
-Building institutional-grade algorithmic trading infrastructure for the modern crypto investor.
+**Founder & Lead Architect:** Jesper Lesak
 
-### 🧠 Core Focus & R&D
+We build **100% local, non-custodial** execution engines for crypto traders who prioritize **capital preservation** over aggressive returns.
 
-* **Quantitative Architecture:** Building non-custodial, local-execution trading engines to eliminate latency and API vulnerability.
-* **Machine Learning:** Training local XGBoost models for dynamic spot market pattern recognition.
-* **Natural Language Processing:** Developing real-time NLP sentiment analysis pipelines to parse global financial news feeds.
-* **System Design:** Desktop application architecture (Electron/React), Data parsing, and automated risk management systems.
+### Core Principles
+- **Iron Shield™** — Deterministic risk management that actively vetoes high-risk trades
+- **Global Hive Mind** — Collective learning from drawdowns across users without sharing positions
+- **Cognitive AI Lobe** — Multi-agent architecture powered by Llama 3 and XGBoost
+- **Zero-trust local execution** — Your API keys never leave your machine
 
-### 🌐 The Kvantix Terminal
+The core trading engine is **closed-source** to protect our competitive edge. This GitHub profile contains selected architectural components and research showcases.
 
-I am currently dedicating my time to building and optimizing the **Kvantix Terminal**, an engine designed to democratize Wall Street's tech stack for retail traders.
+→ [Official Website](https://kvantix.tech)  
+→ [Kvantix PRO Terminal](https://whop.com/kvantix-terminal/)
 
-* **Website:** [kvantix.tech](https://kvantix.tech)
-* *Note: The core Kvantix engine is proprietary and closed-source to protect the active execution logic.*
+### Technology Stack
+- Python • XGBoost • Llama 3 • ccxt.pro • Electron/React (desktop)
 
----
-
-### 📂 Public Showcases & Infrastructure Snippets
-While the core alpha-generation logic remains closed-source, you can explore the architectural foundation of the Kvantix Engine here:
+### Featured Components
 * [🧠 The Cognitive Agent (Llama 3 FinTwit Integration)](https://github.com/lesakko/The-Cognitive-AI-Lobe-Multi-Agent-Prompting-)
 * [🛡️ The Iron Shield (Deterministic Risk Management)](https://github.com/lesakko/-The-Iron-Shield-Risk-Manager-Logic)
 * [🐝 The Global Hive Mind (Swarm Data Schema)](https://github.com/lesakko/The-Global-Hive-Mind-Data-Schema-)
 * [📡 Discord Telemetry Engine (Live Observability)](https://github.com/lesakko/telemetry_broadcaster.py)
+---
+
+Built with focus on security, transparency in architecture, and institutional-grade risk controls for retail traders.
